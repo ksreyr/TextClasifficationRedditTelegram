@@ -1,10 +1,18 @@
 # Text Classifier with a Reddit API
-This is a project, which try to classificed text with Maching Lerning Models, it work througth a Telegram bot.
+This is a project, which try to classificed text with Maching Lerning Models, it work througth a Telegram bot. there a comparation betheen different model in order to get the most effient one.
+
+this comparation have been made with lerning curves.
+
 This proyect have been created like sub proyect in the DataScience Course from the Bremen university.
 
 ## Functionality
 The user give as input text througth the Telegram Interface and the model give back a anwser with the possible Tematic about theses InputText.
-
+## Models
+* Bayes Model
+* Regression
+* Tree Classifiers
+* Neuronal Networks
+* Knn
 ## Installation and Important Conciderations
 1) This proyect is just for educational propouses. 
 2) In this Proyect i do not keep personal data or information, please do not give any of this information...!! . it is not relevant for this proyect.
