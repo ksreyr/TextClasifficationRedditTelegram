@@ -1,8 +1,6 @@
 # Text Classifier with a Reddit API
 This is a project, which try to classificed text with Maching Lerning Models, it work througth a Telegram bot. there a comparation betheen different model in order to get the most effient one.
 
-this comparation have been made with lerning curves.
-
 This proyect have been created like sub proyect in the DataScience Course from the Bremen university.
 
 ## Functionality
