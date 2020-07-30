@@ -1,9 +1,7 @@
 
 # Text Classifier with a Reddit API
 
-<img src="https://live.staticflickr.com/video/50167558758/381ec53b37/1080p.mp4?s=eyJpIjo1MDE2NzU1ODc1OCwiZSI6MTU5NjA2Nzk4OSwicyI6ImI1MTI4Njc3YjMzNzAwYzFkOGQ4NTkyNjA4ODk1YmJlNzhjZjNlYTQiLCJ2IjoxfQ"
-alt="Markdown Monster icon"
-style="float: left; margin-right: 10px;" />
+![Example of use](https://i.imgur.com/P43wHDx.gif)
 
 
 ## Description
