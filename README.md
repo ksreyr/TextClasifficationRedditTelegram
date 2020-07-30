@@ -5,7 +5,7 @@
 
 
 ## Description
-This is a project, which try to make a text classification with Machine Learning Models, it work through a Telegram bot. there a comparison between different model in order to get the most efficient one. It is used to NLP for the cleaning of data.
+This is a project, which try to make a text classification with Machine Learning Models, it work through a Telegram bot. there a comparison between different model in order to get the most efficient one. It is used NLP for the cleaning of data.
 
 This project have been created like sub project in the DataScience Course from the Bremen university.
 
