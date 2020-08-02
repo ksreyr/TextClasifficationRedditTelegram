@@ -14,15 +14,16 @@ The user give as input text through the Telegram Interface and the model give ba
 
 The Input_Text is represented like Thematik in the telegram Interface, this Input is cleaned through NLP and the Classification is represented as Topic.
 
-
-## Models
+## <div id= "Models"></div> 4 Models 
 * Bayes Model
 * Regression
 * Tree Classifiers
 * Neuronal Networks
 * Knn
 * NLP
-## Tecnologies and Requirements 
+
+## <div id= "Moduls_and_Requirements"></div> 5 Moduls and Requirements 
+
 * Praw https://praw.readthedocs.io/en/latest/
 * Wordnet https://wordnet.princeton.edu
 * scikit-learn https://scikit-learn.org/stable/
